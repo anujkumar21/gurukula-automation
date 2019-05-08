@@ -55,3 +55,6 @@ Below table & pie chart contains execution status of Gurukula automation.
 
 ![Automation Execution Status](https://github.com/anujkumar21/gurukula-automation/blob/master/readmedata/automation_execution_status.PNG)
 
+**Notes:**
+1) All 17 failures are valid product defects and are logged in the **'Defects'** worksheet in **"Gurukula - Consolidated Report.xlsx".**
+2) Framework has capability to **capture screenshot** for every failed test scripts. All the screenshots are stored at **". \target\screenshots".**
